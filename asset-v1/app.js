@@ -37,7 +37,7 @@ var app = new function() {
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "10_uh",
+        name: "10_beep",
         color: "828282",
         uniqsnd: !1
     }, {
